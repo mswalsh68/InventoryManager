@@ -1,0 +1,10 @@
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.inventotyManagementStudio.resources
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.cache
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\mikew\OneDrive\Desktop\GitHub\InventoryManager\obj\Debug\InventoryManager.pdb
